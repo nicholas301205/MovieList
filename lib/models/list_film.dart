@@ -16,25 +16,25 @@ class ListFilm {
   static List<ListFilm> getList() {
     return [
       ListFilm(
-        title: "Interstellar",
-        img: "assets/images/interstellar.jpg",
+        title: "Pulp Fiction",
+        img: "assets/images/Pulp_Fiction.jpg",
         desc:
-            "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft to find a new planet for humans.",
-        boxColor: Color(0xff0B0F19),
+            "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        boxColor: Color(0xff8B0000),
       ),
       ListFilm(
-        title: "Inception",
-        img: "assets/images/Inception.jpg",
+        title: "500 Days of Summer",
+        img: "assets/images/500_Days_of_Summer.jpg",
         desc:
-            "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
-        boxColor: Color(0xff0F172A),
+            "After being dumped by the girl he believes to be his soulmate, hopeless romantic Tom Hansen reflects on their relationship to try and figure out where things went wrong and how he can win her back.",
+        boxColor: Color(0xffF2C94C),
       ),
       ListFilm(
-        title: "The Dark Knight",
-        img: "assets/images/The_Dark_Knight.jpg",
+        title: "Manchester by the Sea",
+        img: "assets/images/Manchester_by_the_sea.jpg",
         desc:
-            "When a menace known as the Joker wreaks havoc on Gotham, Batman, James Gordon and Harvey Dent must work together to stop him.",
-        boxColor: Color(0xff0D0D0D),
+            "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.",
+        boxColor: Color(0xff3A5F7D),
       ),
       ListFilm(
         title: "Good Will Hunting",

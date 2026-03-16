@@ -69,7 +69,9 @@ class ContactPage extends StatelessWidget {
           CircleAvatar(
             radius: 30,
             backgroundColor: iconColor,
-            child: const Icon(Icons.person, color: Colors.white, size: 30),
+            child: const Icon(
+              Icons.person, 
+              color: Colors.white, size: 30),
           ),
           const SizedBox(height: 10),
           Text(
@@ -93,9 +95,9 @@ class ContactPage extends StatelessWidget {
             email,
             textAlign: TextAlign.center,
             style: const TextStyle(
-            color: Color.fromARGB(255, 255, 255, 255), 
-            fontSize: 13,
-            fontWeight: FontWeight.w300),
+              color: Color.fromARGB(255, 255, 255, 255), 
+              fontSize: 13,
+              fontWeight: FontWeight.w300),
           ),
         ],
       ),
