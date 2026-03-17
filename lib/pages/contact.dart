@@ -26,20 +26,20 @@ class ContactPage extends StatelessWidget {
           children: [
             _buildMemberCard(
               nama: "Alow, Alsa Faith",
-              nim: "NIM 001",
-              email: "anggota1@student.ac.id",
+              nim: "105022310131",
+              email: "22310580@student.unklab.ac.id",
               iconColor: Colors.blue,
             ),
             _buildMemberCard(
               nama: "Mandey, Nicholas",
               nim: "105022310065",
-              email: "s22310321@student.ac.id",
+              email: "s22310321@student.unklab.ac.id",
               iconColor: Colors.green,
             ),
             _buildMemberCard(
               nama: "Kandou, Jarel",
-              nim: "NIM 003",
-              email: "anggota3@student.ac.id",
+              nim: "105022310146",
+              email: "22310660@student.unklab.ac.id",
               iconColor: Colors.orange,
             ),
           ],

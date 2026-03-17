@@ -29,7 +29,7 @@ class DetailPage extends StatelessWidget {
           Image.asset(
             img,
             width: double.infinity,
-            height: 560,
+            height: 530,
             fit: BoxFit.cover,
           ),
           Padding(
